@@ -2,8 +2,8 @@
 
 ## Scrape Data
 ```
- $ python googleScrape.py --keywords "Sloth Bear, baloons, Beaches" --limit 20
- $ python googleScrape.py -k "Mr Bean, baloons, Beaches" -l 20 --type animated
+ $ python googleScrape.py --keywords "Martin Garrix" --limit 20
+ $ python googleScrape.py -k "Mr Bean" -l 20 --type animated
  $ python googleScrape.py --keywords "Sara Santini" --limit 100
 
 ```
